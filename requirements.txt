@@ -1,0 +1,7 @@
+wikipedia
+fpdf
+langchain_community
+langchain_groq
+langchain
+reportlab
+dotenv
